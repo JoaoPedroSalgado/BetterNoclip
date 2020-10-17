@@ -4,7 +4,7 @@ This is my first ever script :3
 
 ## Quick Setup ##
 1. Download the file
-2. Paste in on your resources folder
+2. Paste it on your resources folder
 3. "start BetterNoclipBySalgado" on server.cfg
 
 ## How to use it ##
