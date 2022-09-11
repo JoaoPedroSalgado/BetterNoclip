@@ -1,3 +1,12 @@
+# Don't use this xD #
+This was my first script every, god damn, this is trash ahah.
+You have better noclips for example the tx admin one.
+You can also get the free cam of this and improve it ? I don't know.
+If i have time in the future I will do a good one xD
+Still, its a good memory.
+
+Thank you for being here! <3
+
 # First Release #1.0 #
 FiveM Ready Noclip Script
 This is my first ever script :3
